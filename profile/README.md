@@ -18,7 +18,7 @@ Hi there 👋
 
 ## License
 
-[![CeCILL-B License](https://img.shields.io/badge/License-CeCILL_B-green.svg)](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
+[![CeCILL License](https://img.shields.io/badge/License-CeCILL-green.svg)](http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.txt)
 
 
 <!--
